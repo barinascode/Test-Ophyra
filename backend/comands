@@ -1,0 +1,2 @@
+php artisan make:model <ModelName> --all
+php artisan make:model UserCourses --all

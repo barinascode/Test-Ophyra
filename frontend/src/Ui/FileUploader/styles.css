@@ -1,0 +1,68 @@
+.uploaderContainer{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    background-color : #f0f0f0 !important;
+    border-radius : 10px;
+    padding : 5px;
+    border: 1px solid rgb(221, 221, 221);
+}
+
+.uploaderFilePlaceholder{
+    background : #e3e3e3;
+    background-size : cover;
+    background-position: center;
+    width : 50px;
+    height: 50px;
+    border-radius : 10px;
+    padding : 10px;  
+}
+
+.uploaderOpenButton{
+    position : relative;
+    top : 40px;
+    left : 70px;
+    background-color : #282828; 
+    width : 40px; 
+    height : 40px; 
+    border-radius : 5px; 
+    display : flex;
+    justify-content : center;
+    align-items : center;
+    cursor : pointer;   
+}
+
+.uploaderUploadTrigger{
+    cursor : pointer;
+    display: flex;
+    background: #f0f0f0;
+    justify-content : center;
+    align-items:center;
+    width:70%;
+}
+
+.uploaderDeleteContainer{
+    position : relative;
+    display: flex;
+    justify-content : center; 
+    align-items:center; 
+    width: 35px;
+    height: 35px;
+    border-radius : 10px;
+    cursor : pointer;
+}
+
+.uploaderDeleteButtonTrigger{
+    display: flex;
+    justify-content : center; 
+    align-items:center;  
+    position: absolute;
+    width : 35px;
+    height: 35px;
+    border-radius : 10px
+}
+
+.uploaderTextLabel{
+    font-size: 11px;
+    text-align: center;
+}

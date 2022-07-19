@@ -1,0 +1,13 @@
+.pagination-button{
+
+    margin: .5em;
+    border-radius: 5px;
+    background:  #fee600;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.2);
+    margin-bottom: 1em;
+    border: 0px none;
+    text-decoration: none;
+}

@@ -1,0 +1,21 @@
+.nav-controllers{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.nav-controllers > a{
+    cursor: pointer;
+    margin-left: .5em;
+    border-radius: 5px;
+    background:  #fee600;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-bottom: 1em;
+}
+

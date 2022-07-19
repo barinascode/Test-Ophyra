@@ -1,0 +1,7 @@
+backend/vendor
+backend/.env
+backend/composer.lock
+
+frontend/node_modules
+frontend/package.lock
+frontend/yarn.lock

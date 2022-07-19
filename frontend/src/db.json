@@ -1,0 +1,62 @@
+{
+
+  "products": [
+    {
+      "id":1,
+      "title": "Procesador i7",
+      "description":"También vendemos componentes para computador en gama baja, media y alta de diferentes marcas (Intel, AMD, Asus, Gigabyte, Msi, EVGA, XFX, Sapphire, Thermaltake, LG, Samsung) como boards, procesadores, memorias, tarjetas de video, discos duros, quemadores de dvd, chasis atx, monitores y demás artículos y accesorios para complementar tu compra. En la sección de preguntas al vendedor puedes consultarnos por la que más se ajuste a tus necesidades.",
+      "image":"https://http2.mlstatic.com/D_NQ_NP_887649-MCO43396436016_092020-O.webp",
+      "price": "650.000"
+    },
+    {
+      "id":2,
+      "title": "Combo Board H510m Procesador Intel Core I7 11700 Pc",
+      "description":"PAGA ARTÍCULOS ADICIONALES (OPCIONAL): Si vas a llevar artículos adicionales haz la compra normalmente y en el detalle de compra podrás añadir el excedente.",
+      "image":"https://http2.mlstatic.com/D_NQ_NP_829610-MCO49408174366_032022-O.webp",
+      "price": "350.000"
+    },
+    {
+      "id":3,
+      "title": "Procesador AMD Ryzen 7 5700G 100-100000263BOX de 8 núcleos y 4.6GHz de frecuencia con gráfica integrada",
+      "description":"Es ideal para jugadores y creadores de contenido que requieran un instrumento de gran ejecución.",
+      "image":"https://http2.mlstatic.com/D_NQ_NP_940934-MLU47593217192_092021-O.webp",
+      "price": "750.000"
+    },
+    {
+      "id":4,
+      "title": "Memoria RAM Trident Z RGB gamer color negro 16GB 2 G.Skill F4-3200C16D-16GTZR",
+      "description":"Si adviertes que tu computadora tiene bajo rendimiento o que su capacidad no se adapta a tus necesidades de uso, es momento de renovar su memoria RAM. Aumentarás su productividad y podrás trabajar de manera rápida y en simultáneo con múltiples aplicaciones.",
+      "image":"https://http2.mlstatic.com/D_NQ_NP_893811-MLA49178738697_022022-O.webp",
+      "price": "300.000"
+    },
+    {
+      "id":5,
+      "title": "Memoria RAM Fury Beast DDR4 RGB color negro 8GB 1 Kingston KF432C16BBA/8",
+      "description":"Si tu portatil funciona con lentitud, si un programa no responde o no se carga, lo más probable es que se trate de un problema de memoria. Estos son posibles indicios de un rendimiento defectuoso en el día a día de tus tareas. Por ello, contar con una memoria Kingston -sinónimo de trayectoria y excelencia- mejorará la productividad de tu equipo: las páginas se cargarán más rápido y la ejecución de nuevas aplicaciones resultará más ágil y simple.",
+      "image":"https://http2.mlstatic.com/D_NQ_NP_776747-MLA48636396046_122021-O.webp",
+      "price": "229.000"
+    },
+    {
+      "id":6,
+      "title": "Nuevo Apple iMac Con Pantalla Retina 5k (27 Pulgadas, 8 Gb D",
+      "description":"¡Este producto lo podrás encontrar con un descuento en nuestra tienda Online 100% soportada por Mercado Libre como RIVERTECHNOLOGY en Mercado Shops!",
+      "image":"https://http2.mlstatic.com/D_NQ_NP_615177-MCO50345395290_062022-O.webp",
+      "price": "9.299.000"
+    },
+    {
+      "id":7,
+      "title": "Monitor gamer Samsung F24T35 led 24  azul y gris oscuro 100V/240V",
+      "description":"Samsung está fielmente comprometida en brindar productos de calidad y que contribuyan a crear un mejor futuro para las personas. Como empresa líder en la industria tecnológica uno de sus objetivos principales es desarrollar avanzadas e innovadoras soluciones. Es por ello que con este monitor tendrás y disfrutarás de una gran experiencia visual en todo momento.",
+      "image":"https://http2.mlstatic.com/D_NQ_NP_613118-MLA48131245525_112021-O.webp",
+      "price": "9.299.000"
+    },
+    {
+      "id":8,
+      "title": "Monitor gamer LG UltraGear 24GN600 led 24  negro 100V/240V",
+      "description":"Un monitor a la medida. Con tu pantalla LED no solo ahorrarás energía, ya que su consumo es bajo, sino que podrás ver colores nítidos y definidos en tus películas o series favoritas.",
+      "image":"https://http2.mlstatic.com/D_NQ_NP_843068-MLA46623183682_072021-O.webp",
+      "price": "679.000"
+    }
+  ]
+
+}
